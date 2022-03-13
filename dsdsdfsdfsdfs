@@ -1,0 +1,47 @@
+[33mcommit 00b7832676acd9b5f44d3e429cb90fbfbc7d4bf0[m[33m ([m[1;36mHEAD -> [m[1;32mbottom-section[m[33m, [m[1;31morigin/bottom-section[m[33m)[m
+Author: MiguelG619 <69783877+MiguelG619@users.noreply.github.com>
+Date:   Sun Mar 13 17:04:21 2022 +0800
+
+    Add bottom section
+
+[33mcommit f1c44c47dc734b11466d117502fb2cacbb59be08[m[33m ([m[1;31morigin/wip-container-sizing[m[33m, [m[1;32mwip-container-sizing[m[33m)[m
+Author: MiguelG619 <69783877+MiguelG619@users.noreply.github.com>
+Date:   Sun Mar 13 16:55:16 2022 +0800
+
+    Add container styles
+
+[33mcommit 99ee3fa0c74eb73311bca5e540b9bb546cd45c37[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: MiguelG619 <69783877+MiguelG619@users.noreply.github.com>
+Date:   Sun Mar 13 14:24:50 2022 +0800
+
+    Footer (#4)
+    
+    * Add footer markup
+    
+    * Add footer styles
+    
+    * Add header markup and styles
+    
+    * Updated height
+
+[33mcommit 5ac9041c5ee4857df2967d7f039e92ab472a2f27[m
+Author: ooloo bot <66779420+ooloo-bot@users.noreply.github.com>
+Date:   Sun Mar 13 03:59:42 2022 +0100
+
+    Decrease header height (#3)
+
+[33mcommit 2ce2975bdd489727b474965c4c706d5fc2bf58c1[m
+Author: MiguelG619 <69783877+MiguelG619@users.noreply.github.com>
+Date:   Sun Mar 13 10:45:13 2022 +0800
+
+    Header (#1)
+    
+    * Add header markup
+    
+    * Add header styles
+
+[33mcommit 87fce77ca474e25c8dbb5ff59b081595a4217afd[m
+Author: ooloo bot <66779420+ooloo-bot@users.noreply.github.com>
+Date:   Sun Mar 13 03:26:33 2022 +0100
+
+    Initial commit
